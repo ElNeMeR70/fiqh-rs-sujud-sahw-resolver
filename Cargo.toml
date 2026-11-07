@@ -1,0 +1,10 @@
+[package]
+name = "fiqh-rs-sujud-sahw-resolver"
+version = "1.0.0"
+edition = "2021"
+description = "Sujud Al-Sahw Pre/Post-Salam Prostration Rule Resolver"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "fiqh_rs_sujud_sahw_resolver"
+path = "main.rs"
